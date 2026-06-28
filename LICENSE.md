@@ -1,4 +1,4 @@
-# 
+# Custom Aseprite extensions for Mac OS | Lightweight Aseprite extensions for PC Windows. Featuring hair-system and color-correction — optimized for maximum performance on every platform.
 
 
 
